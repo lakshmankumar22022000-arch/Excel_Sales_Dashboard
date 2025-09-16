@@ -45,7 +45,7 @@ The goal is to build a **Sales Dashboard** that highlights key business KPIs, id
 
 ## Dashboard View
 - For a full downloadable version of the dashboard, click here:
-- [Download PDF]()
+- [Download PDF](https://github.com/lakshmankumar22022000-arch/Excel_Sales_Dashboard/blob/main/Sales%20Data%20Dashboard(EXCEL).pdf)
 
 - For a Screenshot version of the dashboard, click here:
 - ![Sales Dashboard]()
